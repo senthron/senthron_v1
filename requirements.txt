@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+deepface
+mediapipe==0.10.14
+tensorflow==2.15.0
+tf-keras==2.15.0
+jax==0.4.20
+jaxlib==0.4.20
+ml_dtypes==0.2.0
